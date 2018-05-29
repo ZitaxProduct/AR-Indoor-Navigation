@@ -1,6 +1,9 @@
 # AR-Indoor-Navigation
 This is Licence final project in University of Sciences and Technology HOUARI-BOUMEDIENNE - Computer Science Department in Algeria.
 
+THE PROJECT WILL BE AVIABLE AFTER 10th june.
+
+
 The project is meant to navigate the user from a synchronization point to a destination point (department rooms).
 
 Tools : 
